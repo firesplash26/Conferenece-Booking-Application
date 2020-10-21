@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Conference Booking Application</string>
+    <string name="conference_room_booking">CONFERENCE ROOM BOOKING</string>
+    <string name="enterdate">Enter Date</string>
+    <string name="search">SEARCH</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="to">TO</string>
+    <string name="view_facilities">View Facilities</string>
+    <string name="book_a_room">Book A Room</string>
+    <string name="book_aroom">BOOK A ROOM</string>
+    <string name="exit_msg">Are you sure you want to leave?</string>
+    <string name="exit">Exit</string>
+    <string name="sign_out">Sign Out</string>
+    <string-array name="ChooseDepartment">
+        <item>Choose your Department</item>
+        <item>Department1</item>
+        <item>Department2</item>
+        <item>Department3</item>
+    </string-array>
+    <string-array name="ChooseRoom">
+        <item>Select Room</item>
+        <item>Room1</item>
+        <item>Room2</item>
+        <item>Room3</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
